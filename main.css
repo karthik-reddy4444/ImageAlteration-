@@ -1,0 +1,13 @@
+
+.btn1 {
+    display: flex;
+    justify-content: right;
+    margin:100px  50px;
+    
+}
+
+.btn1,.btn12{
+    font-family: 'Times New Roman';
+    padding: 5px 5px;
+    font-size:20px;
+}
